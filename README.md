@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ikhwandev
+- 👋 Hi, I’m Ikhwan
 - 👀 I’m interested in Software Engginer
 - 🌱 I’m currently learning Front End Developer
 - 💞️ I’m looking to collaborate on Web Developer
